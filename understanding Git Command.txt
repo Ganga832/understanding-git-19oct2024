@@ -1,0 +1,10 @@
+Git is used to store the file permanently
+it is a distributed version system 
+
+if someone give  a project which contain more than 1000files but only one person cannot to the all files actually it take more time let suppose one year but if we are 5 members to do the same task so it take less time like 2months 
+so everyone do 1 file daily and that is only store in his/her local system
+sometime some file is deleted automatically 
+after that we use Google drive which is central version system. Here also sometime somefiles are missing.
+and sometime if all the files are present my local system but system is damaged at that time all the files are deleted so keeping all the file in safe place we use the Git
+
+Git Commands
